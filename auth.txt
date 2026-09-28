@@ -1,0 +1,2 @@
+password=@starlinkcodehackts
+expire=2026-10-31
